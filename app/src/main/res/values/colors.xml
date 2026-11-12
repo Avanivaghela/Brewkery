@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_brand">#C84B26</color>
+    <color name="primary_brand_dark">#A83B1A</color>
+    <color name="primary_brand_light">#FDF2EE</color>
+
+    <color name="bg_cream">#F7F4EE</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="stroke_color">#EAE5DC</color>
+    <color name="stroke_selected">#C84B26</color>
+
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#75726D</color>
+    <color name="text_muted">#A09C96</color>
+
+    <color name="badge_gold_bg">#FEF3D6</color>
+    <color name="badge_gold_text">#855405</color>
+
+    <color name="active_order_bg">#ECF8F1</color>
+    <color name="active_order_border">#C3E8D0</color>
+    <color name="active_order_green">#1E7E43</color>
+
+    <color name="chip_bg">#F1ECE3</color>
+    <color name="chip_selected_bg">#1C1B1F</color>
+    <color name="chip_selected_text">#FFFFFF</color>
+</resources>
